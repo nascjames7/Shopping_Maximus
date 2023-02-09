@@ -13,7 +13,7 @@
 <p>
 <strong>	1.</strong> Vamos ABSTRAIR o DOMÍNIO Shopping e MODELAR seus ATRIBUTOS E MÉTODOS. <br>
 <strong>	2.</strong> Criaremos as CLASSES: Pessoa, Cliente, Funcionario, Gerente, Administrador, Loja, Produto, Venda, ItemVenda e vamos relaciona-las, além da CLASSE principal: Shopping. <br>
-<strong>	3.</strong> As CLASSES Pessoa, Cliente, Funcionario, Gerente, Administrador, Loja, Produto, Venda, e ItemVenda também serão MODELADOS, ou seja, criaremos seus ATRIBUTOS E MÉTODOS. <br>
+<strong>	3.</strong> As CLASSES Pessoa, Cliente, Funcionario, Gerente, Administrador, Loja, Produto, Pedido, Pagamento, Categoria e ItemPedido também serão MODELADOS, ou seja, criaremos seus ATRIBUTOS E MÉTODOS, caso necessário. <br>
 </p>
 
 <h2> 👣 Requisitos do projeto</h2>
